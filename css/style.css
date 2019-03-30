@@ -709,6 +709,7 @@ header .intro-text {
 	width: 150px;
 	height: 150px;
 	margin-left: -75px;
+	background:#7bc3d1;
 }
 .timeline>li .timeline-image h4 {
 	margin-top: 30px;
