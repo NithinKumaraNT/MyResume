@@ -427,6 +427,7 @@
 }
 .fa-check-circle:before {
   content: "\f058";
+  color: lightgreen
 }
 .fa-question-circle:before {
   content: "\f059";
@@ -588,8 +589,9 @@
 .fa-sign-in:before {
   content: "\f090";
 }
-.fa-trophy:before {
+.fa-trophy:after {
   content: "\f091";
+  color: orange;
 }
 .fa-github-square:before {
   content: "\f092";
